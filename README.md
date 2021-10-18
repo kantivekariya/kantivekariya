@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm [Kanti Vekariya]() 👋
 
-<!--
-**kantivekariya/kantivekariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on React js.
+- 🌱 I’m currently learning [tailwindcss](https://tailwindcss.com/).
+- 💬 Ask me about React js.
+- 😄 Pronouns: he | his
 
-Here are some ideas to get you started:
+### Me on Internet:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="kantivekariya | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="kantivekariya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="kantivekariya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="kantivekariya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
+
+[stackoverflow]: https://stackoverflow.com/users/14497778/kanti-vekariya
+[twitter]: https://twitter.com/vekariya_kanti
+[instagram]: https://www.instagram.com/kantiii_patelll/
+[linkedin]: https://in.linkedin.com/in/kanti-vekariya-576740155/
