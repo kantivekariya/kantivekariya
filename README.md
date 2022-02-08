@@ -1,7 +1,6 @@
 ### Hi, I'm [Kanti Vekariya]() 👋
 
 - 🔭 I’m currently working on React js.
-- 🌱 I’m currently learning [tailwindcss](https://tailwindcss.com/).
 - 💬 Ask me about React js.
 - 😄 Pronouns: he | his
 
