@@ -16,5 +16,4 @@
 
 [stackoverflow]: https://stackoverflow.com/users/14497778/kanti-vekariya
 [twitter]: https://twitter.com/vekariya_kanti
-[instagram]: https://www.instagram.com/kantiii_patelll/
 [linkedin]: https://in.linkedin.com/in/kanti-vekariya-576740155/
